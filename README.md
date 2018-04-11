@@ -2,7 +2,7 @@
 
 > The BAM guide to the analysis of messy bird data
 
-## Ouline
+## Outline
 
 1. Data cleaning/processing
 - data I/O, odbc, read/write/load etc
