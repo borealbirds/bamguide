@@ -16,7 +16,7 @@
 - bias-variance trade-off
 - N-mixture (multiple and single visits)
 - ARU stuff
-- movel validation
+- model validation
 3. Intepretation, visualization, prediction
 - understanding coefficients
 - plotting effect sizes and relationships (conditional/marginal effects)
