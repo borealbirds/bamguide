@@ -1,6 +1,7 @@
 # bamguide
 
 > The BAM guide to the analysis of messy bird data
+Please sign in for contributing with a session in: https://docs.google.com/spreadsheets/d/1kVoG5cml7AFQYc35NNJmbv5Do9h527ZWPtLm6v2IwJQ/edit#gid=234398717
 
 ## Outline
 
