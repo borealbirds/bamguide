@@ -1,0 +1,28 @@
+---
+title: "RMarkdown"
+author: "Tati Micheletti"
+date: "May 22, 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Overview
+
+The present document is part of "BAM Guide To Messy data" guide. It was developed to point out a starting point to RMarkdown. The guide can be found in [github](https://github.com/borealbirds/bamguide). A discussion about the guide can also be found in sharepoint, and an excel file with all the sessions and leads can be found in [googlesheets](https://docs.google.com/spreadsheets/d/1kVoG5cml7AFQYc35NNJmbv5Do9h527ZWPtLm6v2IwJQ/edit#gid=234398717).
+
+## RMarkdown
+
+RMarkdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+To start a RMarkdown document, follow these steps:  
+1. Open RStudio;  
+2. Click `File`, `New File` and `RMarkdown`. This will open a file template with some code examples;  
+3. When you click the **Knit** button, a document will be generated that includes both content as well as the output of any embedded R code chunks within the document.  
+
+
+A more detailed guide to RMarkdown, including on how to use the newest PPT support, go to:  
+
+[R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
